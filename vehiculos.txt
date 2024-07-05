@@ -1,0 +1,4 @@
+Automovil,Toyota,Corolla,2015,1.8,4,Gasolina,15
+Motocicleta,Honda,CBR,2018,600cc,Deportiva,20
+CamionLigero,Ford,Ranger,2020,1000,2,12
+CamionPesado,Volvo,FMX,2012,20000,4,Cisterna,8
